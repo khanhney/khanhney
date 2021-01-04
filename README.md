@@ -1,4 +1,5 @@
-### Hi there, I'm KhanhNey👋, a Developer and currently a BackEnd, DevOps Skill!. 
+### Hi there, I'm KhanhNey👋
+A Fullstack Developer from Vietnam and I consider myself as a skilled <strong>JS Developer</strong> with good debugging & <strong>Design System</strong> skilled.
 
 Fun Fact⚡:
 
