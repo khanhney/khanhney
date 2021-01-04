@@ -44,6 +44,6 @@ Fun Fact⚡:
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS có thực sự nhanh như bạn nghĩ? 🤔](https://viblo.asia/p/nodejs-co-thuc-su-nhanh-nhu-ban-nghi-m68Z0Pe9ZkG)
-- [Instagram - Thiết Kế Hệ Thống có gì hay? 💻](https://viblo.asia/p/instagram-thiet-ke-he-thong-co-gi-hay-maGK70GOZj2)
+- [NodeJS có thực sự nhanh như bạn nghĩ? 🤔 | Is NodeJS really as fast as you think?](https://viblo.asia/p/nodejs-co-thuc-su-nhanh-nhu-ban-nghi-m68Z0Pe9ZkG)
+- [Instagram - Thiết Kế Hệ Thống có gì hay? 💻 | What's so good about Design System same as Instagam?](https://viblo.asia/p/instagram-thiet-ke-he-thong-co-gi-hay-maGK70GOZj2)
 <!-- BLOG-POST-LIST:END -->
