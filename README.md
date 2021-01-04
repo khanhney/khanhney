@@ -33,10 +33,8 @@ Fun Fact⚡:
 ![Redis](https://img.shields.io/badge/Redis%20-%23F00000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Connect with me:
-![Twitter](https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)
-![Facebook](https://img.shields.io/badge/facebook%20-%23013243.svg?&style=for-the-badge&logo=facebook&logoColor=white)
-
-<br />
+[![Twitter](https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)(https://www.facebook.com/KhanhNey/)]
+[![Facebook](https://img.shields.io/badge/facebook%20-%23013243.svg?&style=for-the-badge&logo=facebook&logoColor=white)(https://www.facebook.com/KhanhNey/)]
 
 ---
 
