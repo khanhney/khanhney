@@ -1,5 +1,5 @@
 ### Hi there, I'm KhanhNey👋
-A Fullstack Developer from Vietnam and I consider myself as a skilled <strong>JS Developer</strong> with good debugging & <strong>Design System</strong> skilled.
+A Fullstack Developer from VietNam and I consider myself as a skilled <strong>JS Developer</strong> with good debugging & <strong>Design System</strong> skilled.
 
 Fun Fact⚡:
 
