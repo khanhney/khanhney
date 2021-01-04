@@ -1,4 +1,6 @@
-### Hi there, I'm KhanhNey👋, a Developer and currently a BackEnd, DevOps Skill!. Fun Fact⚡:
+### Hi there, I'm KhanhNey👋, a Developer and currently a BackEnd, DevOps Skill!. 
+
+Fun Fact⚡:
 
 - 🏋️ I'm currently improve My SystemDesign skill🤣
 - 🎉 2021 Goals: Contribute more to Open Source projects & move Product team Monolithic to Micro-Service with Sharding Database
