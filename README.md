@@ -29,7 +29,7 @@ Fun Fact⚡:
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/Redis%20-%23F00000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis%20-%23F00000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Connect with me:
