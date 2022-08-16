@@ -45,5 +45,6 @@ Fun Fact⚡:
 
 <!-- BLOG-POST-LIST:START -->
 - [NodeJS có thực sự nhanh như bạn nghĩ? 🤔 | Is NodeJS really as fast as you think?](https://viblo.asia/p/nodejs-co-thuc-su-nhanh-nhu-ban-nghi-m68Z0Pe9ZkG)
+- [Nơi đẹp nhất chính là nơi phù hợp nhất và câu chuyện giữa Anh Chàng NodeJS và Cô Nàng V8 😍] (https://viblo.asia/p/noi-dep-nhat-chinh-la-noi-phu-hop-nhat-va-cau-chuyen-giua-anh-chang-nodejs-va-co-nang-v8-4dbZNNOLZYM)
 - [Instagram - Thiết Kế Hệ Thống có gì hay? 💻 | What's so good about Design System same as Instagam?](https://viblo.asia/p/instagram-thiet-ke-he-thong-co-gi-hay-maGK70GOZj2)
 <!-- BLOG-POST-LIST:END -->
